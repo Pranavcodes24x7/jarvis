@@ -1,16 +1,26 @@
-# Agent Starter for React
+# JARVIS
 
-This is a starter template for [LiveKit Agents](https://docs.livekit.io/agents) that provides a simple voice interface using [Agents UI](https://livekit.io/ui) components and [LiveKit JavaScript SDK](https://github.com/livekit/client-sdk-js). It supports [voice](https://docs.livekit.io/agents/start/voice-ai), [transcriptions](https://docs.livekit.io/agents/build/text/), and [virtual avatars](https://docs.livekit.io/agents/integrations/avatar).
+This is my very own agent named "Jarvis". Inspired by the famous movie character "Iron Man" , I always wanted to build this , and here it is.
 
-Also available for:
-[Android](https://github.com/livekit-examples/agent-starter-android) • [Flutter](https://github.com/livekit-examples/agent-starter-flutter) • [Swift](https://github.com/livekit-examples/agent-starter-swift) • [React Native](https://github.com/livekit-examples/agent-starter-react-native)
+## Screenshots
 
-<picture>
-  <source srcset="./.github/assets/readme-hero-dark.webp" media="(prefers-color-scheme: dark)">
-  <source srcset="./.github/assets/readme-hero-light.webp" media="(prefers-color-scheme: light)">
-  <img src="./.github/assets/readme-hero-light.webp" alt="App screenshot">
-</picture>
+### JARVIS Dashboard
 
+<p align="center">
+  <img src="./jarvis-readme-images/jarvis-dashboard.png" width="100%" alt="JARVIS Dashboard">
+</p>
+
+### Voice Interface
+
+<p align="center">
+  <img src="./jarvis-readme-images/jarvis-voice-interface.png" width="100%" alt="JARVIS Voice Interface">
+</p>
+
+### Conversation Interface
+
+<p align="center">
+  <img src="./jarvis-readme-images/jarvis-conversation.png" width="100%" alt="JARVIS Conversation Interface">
+</p>
 ### Features:
 
 - Real-time voice interaction with LiveKit Agents
@@ -182,6 +192,4 @@ AGENT_NAME=
 
 These are required for the voice agent functionality to work with your LiveKit project.
 
-## Contributing
 
-This template is open source and we welcome contributions! Please open a PR or issue through GitHub, and don't forget to join us in the [LiveKit Community Slack](https://livekit.io/join-slack)!
